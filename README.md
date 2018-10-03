@@ -4,4 +4,4 @@
 ## 建议&Bugs
 [欢迎加入QQ群讨论](https://jq.qq.com/?_wv=1027&k=56u6QM2)  
 ## 食用教程
-![教程](https://heqyoufree.github.io/)
+[教程](https://heqyoufree.github.io/)
